@@ -1,0 +1,35 @@
+
+
+#header-div {
+    width: 60%;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+    font-family: "Josefin Sans", sans-serif;
+    color: #264653;
+    font-size: 40px;
+}
+
+
+.cards-container{
+    margin-bottom: 40px;
+}
+
+.card-row,.card-row1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #91dbf6;
+    height: 40px;
+    padding: 5px;
+}
+
+.card-row1{
+    background-color: aliceblue;
+}
+
+.card-item {
+    /* flex: 1; */
+    text-align: center;
+    margin-right: 10px;
+}

@@ -1,0 +1,19 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #91dbf6;
+    padding: 10px;
+    color: #111111;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.icon {
+    font-size: 34px;
+}
